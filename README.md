@@ -1,4 +1,3 @@
-
 <a href="https://komarev.com/ghpvc/?username=ourdavid">
   <img align="right" src="https://komarev.com/ghpvc/?username=ourdavid&label=Visitors&color=8A2BE2&style=flat" alt="Profile visitor" />
 </a>
