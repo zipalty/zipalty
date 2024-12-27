@@ -60,8 +60,11 @@ I am also on Instagram with the profile [**ourdavid**](https://www.instagram.com
   <img alt="React" title="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Git" title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
-<br/><hr/><br/>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/ourdavid">
