@@ -38,16 +38,16 @@
 <!-- About Section -->
 # About Me
 
-<p>
-  Meu nome é **David William**, tenho **22 anos** e sou **naturalizado brasileiro**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **IESB**. Sou apaixonado por **tecnologia** e compartilho meu conhecimento em meu canal no YouTube, **[Ourdavid](https://www.youtube.com/@ourdavid_)**, onde compartilho projetos e ensinamentos. Também estou no Instagram com o perfil **[ourdavid](https://www.instagram.com/ourdavid/)**, onde continuo a troca de experiências e aprendizados.
-</p>
 
-<p>
-  ✌️ &emsp; Enjoy programming and sharing knowledge <br><br/>
-  😫 &emsp; Love writing code and learning new features<br><br/>
-  📧 &emsp; Reach me anytime: <a href="mailto:contatodavidwilliams@gmail.com">contatodavidwilliams@gmail.com</a><br><br/>
-  🤯 &emsp; Always looking for new challenges
-</p>
+  Meu nome é **David William**, tenho **22 anos** e sou **naturalizado brasileiro**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **IESB**. Sou apaixonado por **tecnologia** e compartilho meu conhecimento em meu canal no YouTube, **[Ourdavid](https://www.youtube.com/@ourdavid_)**, onde compartilho projetos e ensinamentos. Também estou no Instagram com o perfil **[ourdavid](https://www.instagram.com/ourdavid/)**, onde continuo a troca de experiências e aprendizados.
+
+
+
+✌️ &emsp; Enjoy programming and sharing knowledge <br><br/>
+😫 &emsp; Love writing code and learning new features<br><br/>
+📧 &emsp; Reach me anytime: <a href="mailto:contatodavidwilliams@gmail.com">contatodavidwilliams@gmail.com</a><br><br/>
+🤯 &emsp; Always looking for new challenges
+
 
 ## Languages & Tools
 
