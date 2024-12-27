@@ -27,7 +27,10 @@
 # About Me
 
 
-  Meu nome é **David William**, tenho **22 anos** e sou **naturalizado brasileiro**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **IESB**. Sou apaixonado por **tecnologia** e compartilho meu conhecimento em meu canal no YouTube, **[Ourdavid](https://www.youtube.com/@ourdavid_)**, onde compartilho projetos e ensinamentos. Também estou no Instagram com o perfil **[ourdavid](https://www.instagram.com/ourdavid/)**, onde continuo a troca de experiências e aprendizados.
+  My name is **David William**, I am **22 years old**, and I am a **naturalized Brazilian**.  
+Currently, I am studying **Software Engineering** at **IESB**.  
+I am passionate about **technology** and share my knowledge on my YouTube channel, [**Ourdavid**](https://www.youtube.com/@ourdavid_), where I share projects and teachings.  
+I am also on Instagram with the profile [**ourdavid**](https://www.instagram.com/ourdavid/), where I continue the exchange of experiences and learnings.
 
 
 
