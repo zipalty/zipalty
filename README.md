@@ -34,7 +34,7 @@ Currently, I am studying **Software Engineering** at **IESB**.
 
 
 - 👨‍💻 **Software Engineer Student** @ **IESB**  
-- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@ourdavid_) and  [Instagram](https://www.instagram.com/ourdavid/)  
+- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@zipalty) and  [Instagram](https://www.instagram.com/zipalty_/)  
 - 🎓 **Bachelor's degree in Software Engineering**  
 - 🌐 **Passionate about technology and web development**  
 - 💡 **Love solving problems and exploring new tech challenges**
